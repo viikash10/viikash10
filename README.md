@@ -1,6 +1,6 @@
-![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]
+![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h1 align="center">Hi 👋, I'm Vikash Pal</h1>
-<h3 align="center">A passionate Fullstack developer from India. Currently Working as Software Developer Intern at SyntHeim</h3>
+<h3 align="center" style="fontsize: "small";>A passionate Fullstack developer from India. Currently Working as Software Developer Intern at SyntHeim</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif" style="float: right; width: 400px;">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=viikash10&label=Profile%20views&color=0e75b6&style=flat" alt="viikash10" /> </p>
